@@ -1,0 +1,2 @@
+#!/bin/bash
+xfce4-terminal --geometry='240x65+0+0' --zoom=-1 --color-bg='Black' -e "tmux new-session \; splitw -v -p60 \; splitw -h -p 72 'sudo -u batan bash /home/batan/10/menu/menu1.sh' \; splitw -h -p85 \; splitw -v -p20 'watch -n1 -t ps -T' \; splitw -h -p60 \; selectp -t0 \; splitw -h -p72 \; splitw -v -p35 'sudo -u batan bash /home/batan/10/menu/scripts/a.sh' \; selectp -t1 \; splitw -h -p23 'sudo -u batan bash /home/batan/10/menu/menu2.sh' \; splitp -t3 -v \;"

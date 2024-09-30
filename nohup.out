@@ -1,0 +1,31 @@
+Usage:
+  xfce4-terminal [OPTION...]
+
+General Options:
+  -h, --help; -V, --version; --disable-server; --color-table; --preferences;
+  --default-display=display; --default-working-directory=directory
+
+Window or Tab Separators:
+  --tab; --window
+
+Tab Options:
+  -x, --execute; -e, --command=command; -T, --title=title;
+  --dynamic-title-mode=mode ('replace', 'before', 'after', 'none');
+  --initial-title=title; --working-directory=directory; -H, --hold;
+  --active-tab; --color-text=color; --color-bg=color
+
+Window Options:
+  --display=display; --geometry=geometry; --role=role; --drop-down;
+  --startup-id=string; -I, --icon=icon; --fullscreen; --maximize; --minimize;
+  --show-menubar, --hide-menubar; --show-borders, --hide-borders;
+  --show-toolbar, --hide-toolbar; --show-scrollbar, --hide-scrollbar;
+  --font=font; --zoom=zoom
+
+See the xfce4-terminal man page for full explanation of the options above.
+
+Failed to connect to session manager: Failed to connect to the session manager: SESSION_MANAGER environment variable not defined
+Failed to connect to session manager: Failed to connect to the session manager: SESSION_MANAGER environment variable not defined
+Failed to connect to session manager: Failed to connect to the session manager: SESSION_MANAGER environment variable not defined
+Failed to connect to session manager: Failed to connect to the session manager: SESSION_MANAGER environment variable not defined
+Failed to connect to session manager: Failed to connect to the session manager: SESSION_MANAGER environment variable not defined
+Failed to connect to session manager: Failed to connect to the session manager: SESSION_MANAGER environment variable not defined

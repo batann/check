@@ -1,0 +1,76 @@
+├── 00.1.first
+    ===========
+│   ├── first.sh
+│   └── xterm.sh
+├── 01.5.menu
+    =========
+│   ├── backup.sh
+│   ├── commands.sh
+│   ├── dotmenu.sh
+│   ├── PM.sh
+│   ├── reminder.sh
+│   ├── settings.sh
+│   ├── software.sh
+│   └── vim.commands.sh
+├── 01.backup
+    =========
+├── 02.dotfiles
+    ===========
+│   ├── dot.sh
+│   └── vimtemplates.sh
+├── 03.software
+    ===========
+│   ├── flatpaks.sh
+│   ├── github.sh
+│   ├── nvim.sh
+│   ├── progress.sh
+│   ├── repository.sh
+│   └── vim.sh
+├── 04.settings
+    ===========
+│   ├── caps.sh
+│   ├── custom-grub.sh
+│   ├── firewall.sh
+│   ├── fonts.sh
+│   ├── fstab.sh
+│   ├── gpg.sh
+│   ├── keybindin
+│   ├── lamp.t.sh
+│   ├── mega.sh
+│   ├── powermanager.sh
+│   ├── snapwindow.sh
+│   ├── ssh.sh
+│   ├── superkey.sh
+│   ├── themes.sh
+│   ├── timezone.sh
+│   └── visudo.sh
+├── 05.commands
+    ===========
+│   ├── clean.sh
+│   ├── count1.sh
+│   ├── downm.sh
+│   ├── downv.sh
+│   ├── fstab.sh
+│   ├── megals.sh
+│   ├── megastorage.sh
+│   ├── metadata.sh
+│   ├── nuke.sh
+│   ├── popup.sh
+│   ├── psaux.sh
+│   ├── scplocal.sh
+│   ├── setssh.sh
+│   ├── shred.sh
+│   ├── sssh.sh
+│   ├── start_right.sh
+│   └── usb.sh
+├── 06.vim.commands
+    ===============
+│   └── vim.commands.sh
+├── 07.reminder
+    ===========
+│   └── reminder.sh
+└── 08.PM
+    ======
+└── PM.sh
+
+
